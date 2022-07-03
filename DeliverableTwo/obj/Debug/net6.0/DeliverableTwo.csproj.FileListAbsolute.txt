@@ -1,0 +1,15 @@
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\DeliverableTwo.csproj.AssemblyReference.cache
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\DeliverableTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\DeliverableTwo.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\DeliverableTwo.AssemblyInfo.cs
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\DeliverableTwo.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\bin\Debug\net6.0\DeliverableTwo.exe
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\bin\Debug\net6.0\DeliverableTwo.deps.json
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\bin\Debug\net6.0\DeliverableTwo.runtimeconfig.json
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\bin\Debug\net6.0\DeliverableTwo.dll
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\bin\Debug\net6.0\DeliverableTwo.pdb
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\DeliverableTwo.dll
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\refint\DeliverableTwo.dll
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\DeliverableTwo.pdb
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\DeliverableTwo.genruntimeconfig.cache
+C:\Users\Jake\source\repos\DeliverableTwo\DeliverableTwo\obj\Debug\net6.0\ref\DeliverableTwo.dll
